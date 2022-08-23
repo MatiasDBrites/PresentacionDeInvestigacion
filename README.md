@@ -10,6 +10,9 @@
 
 [![p5.png](https://i.postimg.cc/7LvFLWT5/p5.png)](https://postimg.cc/NK4JJbDt)
 
+Aqui link del Prototipo de Baja Fidelidad 
+https://www.figma.com/proto/gMPSzf3cpwGlZeX13LVjhA/SoMCar-App?node-id=2%3A2&scaling=scale-down&page-id=0%3A1&starting-point-node-id=2%3A2
+
 [![p6.png](https://i.postimg.cc/y65vBSRd/p6.png)](https://postimg.cc/WtGMwzXL)
 
 [![p7.png](https://i.postimg.cc/XqF2tVQx/p7.png)](https://postimg.cc/ctxMnNq8)
